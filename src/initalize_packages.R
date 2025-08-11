@@ -5,6 +5,7 @@
 # - Modeling/statistics
 # - Tables/reports
 # - Data handling/utilities
+# - Latex
 # =========================================================
 
 library(cartogram)      # create cartograms (rescaled maps)
